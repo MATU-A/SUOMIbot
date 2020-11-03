@@ -1,0 +1,2 @@
+# SUOMIbot
+Bot:D
